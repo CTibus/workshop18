@@ -63,4 +63,5 @@ function render() {
   `;
   $app.querySelector("FreelancerCards").replaceWith(FreelancerCards(freelancers));
 }
+console,log
 render();
